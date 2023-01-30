@@ -1,0 +1,8 @@
+a.active{
+    background-color: #7033FF !important;
+    color: white !important;
+}
+
+a:hover{
+    color: white;
+}

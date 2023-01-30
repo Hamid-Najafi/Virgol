@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2339b73-0389-46c4-a334-7a3a226d24e3" name="Default Changelist" comment="padding added to tables">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_actions/guideActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_actions/guideActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_actions/managerActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_actions/managerActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_actions/meetingActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_actions/meetingActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_reducers/guideReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/_reducers/guideReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/Teacher/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/Teacher/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/admin/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/admin/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/baseManager/BaseManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/baseManager/BaseManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/ExtraLesson/AddExtraLesson.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/ExtraLesson/AddExtraLesson.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/ManagerDashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/ManagerDashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/class/Schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/class/Schedule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/grades/Grades.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/manager/grades/Grades.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/student/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/student/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/videos/PrincipalGuide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/videos/PrincipalGuide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/videos/StudentGuide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/videos/StudentGuide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/videos/TeacherGuide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Presentation/Virgol.School/ClientApp/src/components/dashboards/videos/TeacherGuide.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1fvCvWX9GPek4R9pqXMe5HoBy8S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2339b73-0389-46c4-a334-7a3a226d24e3" name="Default Changelist" comment="" />
+      <created>1597089409134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597089409134</updated>
+      <workItem from="1597089410554" duration="36000" />
+      <workItem from="1597822739483" duration="31000" />
+      <workItem from="1598097113185" duration="25000" />
+      <workItem from="1598275391414" duration="982000" />
+      <workItem from="1598287516797" duration="617000" />
+      <workItem from="1599150347025" duration="982000" />
+      <workItem from="1599219194938" duration="5000" />
+      <workItem from="1599307715859" duration="1914000" />
+      <workItem from="1599756012856" duration="87000" />
+      <workItem from="1599765666207" duration="2564000" />
+      <workItem from="1599826525834" duration="2728000" />
+      <workItem from="1599920692540" duration="1385000" />
+      <workItem from="1599940389549" duration="6383000" />
+      <workItem from="1600023651852" duration="2165000" />
+      <workItem from="1600025881818" duration="3420000" />
+      <workItem from="1600082752250" duration="1362000" />
+      <workItem from="1600102192800" duration="7917000" />
+      <workItem from="1600114210750" duration="4087000" />
+      <workItem from="1600120000821" duration="413000" />
+      <workItem from="1608550403162" duration="6000" />
+      <workItem from="1612721784286" duration="1162000" />
+      <workItem from="1612779845941" duration="161000" />
+      <workItem from="1612782668532" duration="124000" />
+      <workItem from="1612804700724" duration="269000" />
+      <workItem from="1612813181074" duration="740000" />
+      <workItem from="1612872495573" duration="27000" />
+      <workItem from="1612898321309" duration="113000" />
+      <workItem from="1612951394673" duration="732000" />
+      <workItem from="1612955645728" duration="141000" />
+      <workItem from="1612980189666" duration="192000" />
+      <workItem from="1613038967201" duration="494000" />
+      <workItem from="1613048230000" duration="1050000" />
+      <workItem from="1613123401731" duration="340000" />
+      <workItem from="1613134949503" duration="31000" />
+      <workItem from="1613135054973" duration="25000" />
+      <workItem from="1613142848190" duration="1818000" />
+      <workItem from="1613200534827" duration="1132000" />
+      <workItem from="1613212266365" duration="2738000" />
+      <workItem from="1613238621027" duration="27000" />
+      <workItem from="1613377425742" duration="251000" />
+      <workItem from="1613387170102" duration="252000" />
+      <workItem from="1613391084603" duration="1416000" />
+      <workItem from="1613412867894" duration="122000" />
+      <workItem from="1613472530946" duration="150000" />
+      <workItem from="1613474044302" duration="34000" />
+      <workItem from="1613550245067" duration="74000" />
+      <workItem from="1613583448207" duration="865000" />
+      <workItem from="1613588688914" duration="117000" />
+      <workItem from="1613590961873" duration="1007000" />
+      <workItem from="1613631243042" duration="103000" />
+      <workItem from="1613648860446" duration="259000" />
+      <workItem from="1613650187850" duration="685000" />
+      <workItem from="1613718314806" duration="143000" />
+      <workItem from="1613733365520" duration="19000" />
+      <workItem from="1613912937891" duration="56000" />
+      <workItem from="1613927520544" duration="59000" />
+      <workItem from="1613986130270" duration="1388000" />
+      <workItem from="1613996870329" duration="1852000" />
+      <workItem from="1614095903456" duration="100000" />
+      <workItem from="1614098606196" duration="505000" />
+      <workItem from="1614108645495" duration="622000" />
+      <workItem from="1614248530151" duration="2642000" />
+      <workItem from="1614448985202" duration="77000" />
+      <workItem from="1614537440538" duration="324000" />
+      <workItem from="1614623299679" duration="580000" />
+      <workItem from="1614671813355" duration="811000" />
+      <workItem from="1614686790297" duration="192000" />
+      <workItem from="1614869997582" duration="465000" />
+      <workItem from="1614876792899" duration="51000" />
+      <workItem from="1615101879414" duration="337000" />
+      <workItem from="1615206749717" duration="538000" />
+      <workItem from="1615361447568" duration="753000" />
+      <workItem from="1615375074787" duration="2902000" />
+      <workItem from="1615449459099" duration="2594000" />
+      <workItem from="1615466205985" duration="220000" />
+      <workItem from="1615466462285" duration="518000" />
+      <workItem from="1615467084689" duration="732000" />
+      <workItem from="1615558470512" duration="1076000" />
+      <workItem from="1615726971184" duration="1539000" />
+      <workItem from="1615904976461" duration="214000" />
+      <workItem from="1616147031717" duration="338000" />
+      <workItem from="1616941438278" duration="87000" />
+      <workItem from="1617184111259" duration="172000" />
+      <workItem from="1617287929682" duration="2277000" />
+    </task>
+    <task id="LOCAL-00011" summary="edit lesson modal redesigned&#10;edit session button added&#10;some style added to landing page">
+      <created>1613123428130</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613123428130</updated>
+    </task>
+    <task id="LOCAL-00012" summary="some change into recorded sessions">
+      <created>1613143811676</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613143811676</updated>
+    </task>
+    <task id="LOCAL-00013" summary="side bar changed&#10;crisp commented">
+      <created>1613208349537</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613208349537</updated>
+    </task>
+    <task id="LOCAL-00014" summary="some style changed">
+      <created>1613223907391</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1613223907391</updated>
+    </task>
+    <task id="LOCAL-00015" summary="manage session added&#10;paginate added for groups page">
+      <created>1613387389527</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613387389527</updated>
+    </task>
+    <task id="LOCAL-00016" summary="base manager improved">
+      <created>1613391118840</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1613391118840</updated>
+    </task>
+    <task id="LOCAL-00017" summary="base manager improved">
+      <created>1613391172791</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1613391172791</updated>
+    </task>
+    <task id="LOCAL-00018" summary="manage sessions added">
+      <created>1613472614988</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613472614988</updated>
+    </task>
+    <task id="LOCAL-00019" summary="captcha prepare">
+      <created>1613583535457</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1613583535457</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/Beta' into Beta">
+      <created>1613583675248</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1613583675248</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/Beta' into Beta">
+      <created>1613583714113</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1613583714113</updated>
+    </task>
+    <task id="LOCAL-00022" summary="menubar improved">
+      <created>1613588718941</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1613588718941</updated>
+    </task>
+    <task id="LOCAL-00023" summary="translation updated">
+      <created>1613591363895</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1613591363895</updated>
+    </task>
+    <task id="LOCAL-00024" summary="some change in side bar">
+      <created>1613648914374</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613648914374</updated>
+    </task>
+    <task id="LOCAL-00025" summary="some change in side bar">
+      <created>1613649112970</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1613649112970</updated>
+    </task>
+    <task id="LOCAL-00026" summary="try for debugging on server">
+      <created>1613650222320</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1613650222320</updated>
+    </task>
+    <task id="LOCAL-00027" summary="landing page improved&#10;react presist commented">
+      <created>1613657107201</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1613657107201</updated>
+    </task>
+    <task id="LOCAL-00028" summary="some minor bug fixed&#10;default teacher meeting service selected">
+      <created>1613718427171</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613718427171</updated>
+    </task>
+    <task id="LOCAL-00029" summary="some small changes">
+      <created>1613986161190</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1613986161190</updated>
+    </task>
+    <task id="LOCAL-00030" summary="some small changes">
+      <created>1613986339713</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1613986339713</updated>
+    </task>
+    <task id="LOCAL-00031" summary="scroll behavior transferred">
+      <created>1613997195479</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1613997195479</updated>
+    </task>
+    <task id="LOCAL-00032" summary="anchor tag style updated">
+      <created>1613998818149</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1613998818149</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update versioning">
+      <created>1613998898974</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1613998898974</updated>
+    </task>
+    <task id="LOCAL-00034" summary="padding added to tables">
+      <created>1614099077203</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1614099077203</updated>
+    </task>
+    <task id="LOCAL-00035" summary="guide pages added">
+      <created>1614255530893</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1614255530893</updated>
+    </task>
+    <task id="LOCAL-00036" summary="guide pages added part2">
+      <created>1614255645993</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1614255645993</updated>
+    </task>
+    <task id="LOCAL-00037" summary="some uncommited files">
+      <created>1614255857211</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1614255857211</updated>
+    </task>
+    <task id="LOCAL-00038" summary="cleanup code">
+      <created>1614537473513</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1614537473513</updated>
+    </task>
+    <task id="LOCAL-00039" summary="counter card icon changed">
+      <created>1614672000924</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1614672000924</updated>
+    </task>
+    <task id="LOCAL-00040" summary="auto login">
+      <created>1614686862795</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1614686862795</updated>
+    </task>
+    <task id="LOCAL-00041" summary="auto login">
+      <created>1614686908017</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1614686908017</updated>
+    </task>
+    <task id="LOCAL-00042" summary="guide pages redesigned&#10;some translations updated">
+      <created>1614870059228</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1614870059228</updated>
+    </task>
+    <task id="LOCAL-00043" summary="guide pages redesigned&#10;some translations updated">
+      <created>1614870077920</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1614870077920</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update versioning">
+      <created>1614870112962</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1614870112962</updated>
+    </task>
+    <task id="LOCAL-00045" summary="create remember me option but not works ,&#10;improve security :)">
+      <created>1614876822478</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1614876822478</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Guide menu created &#10;remember me commented">
+      <created>1615101963533</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1615101963533</updated>
+    </task>
+    <task id="LOCAL-00047" summary="remember me created &#10;guide routing improved">
+      <created>1615207270003</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1615207270003</updated>
+    </task>
+    <task id="LOCAL-00048" summary="guide pages improved for safari">
+      <created>1615361479736</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1615361479736</updated>
+    </task>
+    <task id="LOCAL-00049" summary="scollbar improved">
+      <created>1615386433374</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1615386433374</updated>
+    </task>
+    <task id="LOCAL-00050" summary="guide page translation completed">
+      <created>1615397565983</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1615397565984</updated>
+    </task>
+    <task id="LOCAL-00051" summary="login redesigned &#10;stream info color changed">
+      <created>1615467035467</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1615467035467</updated>
+    </task>
+    <task id="LOCAL-00052" summary="css file">
+      <created>1615467105937</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1615467105937</updated>
+    </task>
+    <task id="LOCAL-00053" summary="some bug fixed">
+      <created>1615728498587</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1615728498587</updated>
+    </task>
+    <task id="LOCAL-00054" summary="password security improved">
+      <created>1615905141537</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1615905141538</updated>
+    </task>
+    <task id="LOCAL-00055" summary="login bug fixed">
+      <created>1616147105721</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1616147105721</updated>
+    </task>
+    <task id="LOCAL-00056" summary="bug fixed">
+      <created>1616941476401</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1616941476417</updated>
+    </task>
+    <task id="LOCAL-00057" summary="uncommitted files">
+      <created>1617184225678</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1617184225686</updated>
+    </task>
+    <task id="LOCAL-00058" summary="guide api created">
+      <created>1617345996582</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1617345996583</updated>
+    </task>
+    <task id="LOCAL-00059" summary="uncommitted file">
+      <created>1617346279755</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1617346279755</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="guide pages added" />
+    <MESSAGE value="guide pages added part2" />
+    <MESSAGE value="some uncommited files" />
+    <MESSAGE value="cleanup code" />
+    <MESSAGE value="counter card icon changed" />
+    <MESSAGE value="auto login" />
+    <MESSAGE value="guide pages redesigned&#10;some translations updated" />
+    <MESSAGE value="update versioning" />
+    <MESSAGE value="create remember me option but not works ,&#10;improve security :)" />
+    <MESSAGE value="Guide menu created &#10;remember me commented" />
+    <MESSAGE value="remember me created &#10;guide routing improved" />
+    <MESSAGE value="guide pages improved for safari" />
+    <MESSAGE value="scollbar improved" />
+    <MESSAGE value="guide page translation completed" />
+    <MESSAGE value="stream info color changed &#10;login page redesigned" />
+    <MESSAGE value="login page redesigned &#10;stream info color changed" />
+    <MESSAGE value="login redesigned &#10;stream info color changed" />
+    <MESSAGE value="css file" />
+    <MESSAGE value="some bug fixed" />
+    <MESSAGE value="password security improved" />
+    <MESSAGE value="login bug fixed" />
+    <MESSAGE value="bug fixed" />
+    <MESSAGE value="uncommitted files" />
+    <MESSAGE value="guide api created" />
+    <MESSAGE value="uncommitted file" />
+    <option name="LAST_COMMIT_MESSAGE" value="uncommitted file" />
+  </component>
+</project>

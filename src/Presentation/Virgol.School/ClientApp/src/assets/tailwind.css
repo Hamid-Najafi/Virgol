@@ -1,0 +1,83 @@
+@tailwind base;
+
+@tailwind components;
+
+@font-face {
+    font-family: vazirRegular;
+    src: url(/fonts/Vazir.woff);
+}
+
+@font-face {
+    font-family: vazirMedium;
+    src: url(/fonts/Vazir-Medium.woff);
+}
+
+@font-face {
+    font-family: vazirBold;
+    src: url(/fonts/Vazir-Bold.woff);
+}
+
+::placeholder {
+    text-align: right;
+}
+
+.hor-centerize {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.ver-centerize {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.centerize {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.bottomize {
+    top: 100%;
+  }
+
+.toggle-pass-vis {
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+.sidebar-toggle {
+    left: -40px;
+    top: 10px;
+}
+
+.all-classes {
+    grid-template-columns: repeat(auto-fit, 200px);
+}
+
+.teacher-classes-cards {
+    grid-template-columns: repeat(auto-fit, minmax(250px, max-content));
+}
+
+.addStudentBtn {
+    opacity: 0;
+}
+
+.addStudent:hover .addStudentBtn {
+    opacity: 1;
+}
+
+.meteor-bg {
+    background-image: url('/Meteor.svg');
+}
+
+.Polygon-bg {
+    background-image: url('/Polygon.svg');
+}
+
+
+
+@tailwind utilities;
